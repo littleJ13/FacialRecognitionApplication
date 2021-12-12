@@ -1,0 +1,10 @@
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\bin\Debug\FacialApplication.exe.config
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\bin\Debug\FacialApplication.exe
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\bin\Debug\FacialApplication.pdb
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\obj\Debug\FacialApplication.csprojAssemblyReference.cache
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\obj\Debug\FacialApplication.Form1.resources
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\obj\Debug\FacialApplication.Properties.Resources.resources
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\obj\Debug\FacialApplication.csproj.GenerateResource.cache
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\obj\Debug\FacialApplication.csproj.CoreCompileInputs.cache
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\obj\Debug\FacialApplication.exe
+C:\Users\jayso\source\repos\FacialApplication\FacialApplication\obj\Debug\FacialApplication.pdb
